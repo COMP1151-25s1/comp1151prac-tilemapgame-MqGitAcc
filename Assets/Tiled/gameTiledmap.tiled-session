@@ -1,0 +1,42 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "Tilemap/TilemapTMX.tmx",
+    "expandedProjectPaths": [
+        "."
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "Tilemap/TilemapTMX.tmx": {
+            "scale": 1,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 237.5,
+                "y": 106.5
+            }
+        },
+        "gameTileSet.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 2
+        }
+    },
+    "last.imagePath": "C:/Users/aidan/NOT ONEDRIVE/comp1151prac-tilemapgame-MqGitAcc/Assets/Tiled/Tilemap/Tilemap",
+    "map.fixedSize": false,
+    "map.lastUsedFormat": "tmx",
+    "openFiles": [
+        "Tilemap/TilemapTMX.tmx",
+        "gameTileSet.tsx"
+    ],
+    "project": "gameTiledmap.tiled-project",
+    "recentFiles": [
+        "gameTileSet.tsx",
+        "Tilemap/TilemapTMX.tmx"
+    ],
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    }
+}
