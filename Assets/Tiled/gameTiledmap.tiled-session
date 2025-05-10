@@ -5,16 +5,17 @@
     },
     "activeFile": "Tilemap/TilemapTMX.tmx",
     "expandedProjectPaths": [
+        "Tilemap",
         "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
         "Tilemap/TilemapTMX.tmx": {
             "scale": 1,
-            "selectedLayer": 1,
+            "selectedLayer": 2,
             "viewCenter": {
                 "x": 237.5,
-                "y": 106.5
+                "y": 33
             }
         },
         "gameTileSet.tsx": {
